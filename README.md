@@ -53,7 +53,7 @@ CCP addresses this gap by introducing a **control plane for decision-making**, a
 We believe **adversarial dialogue leads to better innovation**.  
 CCP encodes that principle directly into decision infrastructure.
 
-## Why CCP?
+## The Problem We Seek To Solve
 
 ![Why CCP](https://github.com/AndieWill510/ccp/blob/main/drawings/ccp_problem_framing.jpg)
 
