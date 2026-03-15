@@ -142,6 +142,9 @@ Together these components form a **constitutional operating system for decisions
 
 ![CCP Life of a Proposal](https://github.com/AndieWill510/ccp/blob/main/drawings/ccp_life_of_a_proposal.jpg)
 
+## CCP Inside an AI System
+
+![CCP Inside an AI System](diagrams/ccp_inside_ai_system.jpg)
 ---
 
 # RFC Series
