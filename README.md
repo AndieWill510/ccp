@@ -136,11 +136,11 @@ Together these components form a **constitutional operating system for decisions
 
 ## CCP Protocol Suite
 
-![CCP Protocol Suite](diagrams/ccp_protocol_suite.jpg)
+![CCP Protocol Suite](https://github.com/AndieWill510/ccp/blob/main/drawings/ccp_protocol_suite.jpg)
 
 ## Life of a Proposal
 
-![CCP Life of a Proposal](diagrams/ccp_life_of_proposal.jpg)
+![CCP Life of a Proposal](https://github.com/AndieWill510/ccp/blob/main/drawings/ccp_life_of_a_proposal.jpg)
 
 ---
 
