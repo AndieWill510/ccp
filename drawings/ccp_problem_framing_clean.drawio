@@ -1,0 +1,29 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="CCP Problem Framing Clean">
+    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1"
+      connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800"
+      pageHeight="1000">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="b1" value="The Problem&#xa;Autonomous systems are beginning&#xa;to make decisions affecting&#xa;institutions and society&#xa;without legitimate governance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="420" height="240" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="b2" value="Current Approaches&#xa;Ad‑hoc AI guardrails&#xa;Corporate policy enforcement&#xa;Opaque algorithmic decisions&#xa;Fragmented regulation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="420" height="240" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="b3" value="Cost of Inaction&#xa;Loss of public trust&#xa;Institutional instability&#xa;Unaccountable AI decisions&#xa;Governance lag vs technology" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="200" width="420" height="240" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="b4" value="CCP Approach&#xa;Constitutional governance layer&#xa;Challenge and adjudication&#xa;Attestation and record plane&#xa;Legitimate execution" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="420" height="240" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
