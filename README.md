@@ -128,7 +128,7 @@ Together these components form a **constitutional operating system for decisions
 
 ## CCP as Kubernetes for Decisions
 
-![CCP as Kubernetes for Decisions](diagrams/ccp_kubernetes_for_decisions.jpg)
+![CCP as Kubernetes for Decisions](/diagrams/ccp_kubernetes_for_decisions.jpg)
 
 ## CCP Governance State Machine
 
