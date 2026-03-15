@@ -132,7 +132,7 @@ Together these components form a **constitutional operating system for decisions
 
 ## CCP Governance State Machine
 
-![CCP Governance State Machine](diagrams/ccp_governance_state_machine.jpg)
+![CCP Governance State Machine](https://github.com/AndieWill510/ccp/blob/main/drawings/ccp_governance_state_machine.jpg)
 
 ## CCP Protocol Suite
 
