@@ -1,0 +1,25 @@
+sequenceDiagram
+    participant Client
+    participant Gateway
+    participant EnvelopeValidator
+    participant Auth as Identity/Attestation
+    participant Service as Decision Service
+    participant GSM as Governance SM
+    participant Repo as Repository
+
+    Client->>Gateway: POST /envelopes/submit
+    Gateway->>EnvelopeValidator: validate schema + integrity
+
+    EnvelopeValidator->>Auth: verify identity + authority
+    Auth-->>EnvelopeValidator: OK
+
+    EnvelopeValidator->>Service: route(protocol)
+
+    Service->>GSM: apply transition
+    GSM-->>Service: new state
+
+    Service->>Repo: persist decision + history
+    Repo-->>Service: OK
+
+    Service-->>Gateway: response
+    Gateway-->>Client: 200 OK
