@@ -28,7 +28,7 @@ subgraph Structure
     DEC[Decision]
 end
 
-%% Control Layer
+%% Control Layer (state machine,or SM)
 subgraph Control
     GSM[Governance SM]
     XSM[Execution SM]
