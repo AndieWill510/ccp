@@ -7,7 +7,8 @@
 
 **A constitutional decision plane for resilient decisions across synthetic, human, and institutional systems.**
 
-**Why? Agentic AI needs due process to be legitimate.**
+**Why? 
+Agentic AI needs due process to be legitimate.**
 
 ---
 
