@@ -41,7 +41,7 @@ That gap is becoming a **systemic risk**, especially in AI-driven systems.
 CDP introduces governance infrastructure for decisions—  
 the same way Kubernetes introduced control planes for compute.
 
-> **Adversarial process produces legitimate decisions.**
+> **Adversarial/nemawashi processes produce legitimate decisions.**
 
 ---
 
